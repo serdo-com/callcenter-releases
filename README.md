@@ -12,7 +12,7 @@ Everything here is written by the app's publish script. Do not edit by hand.
 <!-- mobile:start -->
 ## Mobile app (Android)
 
-Newest build: **0.1.0 build 3** - [guzo-callcenter-0.1.0-build.3.gd0c8dcb.apk](https://github.com/serdo-com/callcenter-releases/releases/download/mobile-v0.1.0-build.3.gd0c8dcb/guzo-callcenter-0.1.0-build.3.gd0c8dcb.apk)
+Newest build: **0.1.0 build 4** - [guzo-callcenter-0.1.0-build.4.g2034760.apk](https://github.com/serdo-com/callcenter-releases/releases/download/mobile-v0.1.0-build.4.g2034760/guzo-callcenter-0.1.0-build.4.g2034760.apk)
 
 Every mobile build: [mobile/RELEASES.md](mobile/RELEASES.md)
 <!-- mobile:end -->
