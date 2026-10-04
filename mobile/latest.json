@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-build.4.g2034760",
+  "version": "0.1.0-build.5.g5aa1c74",
   "release": "0.1.0",
-  "build": 4,
-  "commit": "2034760",
-  "tag": "mobile-v0.1.0-build.4.g2034760",
-  "file": "guzo-callcenter-0.1.0-build.4.g2034760.apk",
-  "url": "https://github.com/serdo-com/callcenter-releases/releases/download/mobile-v0.1.0-build.4.g2034760/guzo-callcenter-0.1.0-build.4.g2034760.apk",
-  "sizeBytes": 55901935,
-  "publishedAt": "2026-10-03T06:50:52Z"
+  "build": 5,
+  "commit": "5aa1c74",
+  "tag": "mobile-v0.1.0-build.5.g5aa1c74",
+  "file": "guzo-callcenter-0.1.0-build.5.g5aa1c74.apk",
+  "url": "https://github.com/serdo-com/callcenter-releases/releases/download/mobile-v0.1.0-build.5.g5aa1c74/guzo-callcenter-0.1.0-build.5.g5aa1c74.apk",
+  "sizeBytes": 56112173,
+  "publishedAt": "2026-10-04T16:37:07Z"
 }
