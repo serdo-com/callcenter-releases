@@ -2,6 +2,13 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.3 build 87 - 2026-10-13 11:12 UTC
+
+`0.1.3-build.87.gb5dc5c2` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.87.gb5dc5c2)
+
+- feat: installable web app (PWA) for Chromebooks, office/relay choice on the web
+- feat: update softphone drag functionality and add dialer state handling
+
 ## 0.1.3 build 60 - 2026-10-05 13:45 UTC
 
 `0.1.3-build.60.g063d46c` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.60.g063d46c)
