@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.3 build 91 - 2026-10-16 08:32 UTC
+
+`0.1.3-build.91.g678ad65` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.91.g678ad65)
+
+- Rebuild of the same commit.
+
 ## 0.1.3 build 90 - 2026-10-16 07:50 UTC
 
 `0.1.3-build.90.g678ad65` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.90.g678ad65)
