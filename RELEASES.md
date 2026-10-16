@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.3 build 89 - 2026-10-16 07:26 UTC
+
+`0.1.3-build.89.gb0c2576` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.89.gb0c2576)
+
+- feat(middleware): add redirection for legacy hosts to canonical origin
+
 ## 0.1.3 build 87 - 2026-10-13 11:12 UTC
 
 `0.1.3-build.87.gb5dc5c2` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.87.gb5dc5c2)
