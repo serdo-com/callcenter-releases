@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.3 build 101 - 2026-10-26 12:51 UTC
+
+`0.1.3-build.101.g520041c` - Windows - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.101.g520041c)
+
+- feat: update build number to 100 and enhance softphone window handling for COSMIC desktop
+
 ## 0.1.3 build 100 - 2026-10-23 06:03 UTC
 
 `0.1.3-build.100.ga88774f` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.100.ga88774f)
