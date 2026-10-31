@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.5 build 103 - 2026-10-31 06:27 UTC
+
+`0.1.5-build.103.ga2c8c91` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.5-build.103.ga2c8c91)
+
+- feat: missed calls split by agent, responsive full-width call history, all-time filter, view-as supervisor listen box; v0.1.5
+
 ## 0.1.4 build 102 - 2026-10-31 05:10 UTC
 
 `0.1.4-build.102.g591949f` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.4-build.102.g591949f)
