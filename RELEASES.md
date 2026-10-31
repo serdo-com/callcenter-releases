@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.4 build 102 - 2026-10-31 05:10 UTC
+
+`0.1.4-build.102.g591949f` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.4-build.102.g591949f)
+
+- feat: recording review monitor, listen-and-note box for supervisors, note reader, GPU fallback; v0.1.4
+
 ## 0.1.3 build 101 - 2026-10-26 12:51 UTC
 
 `0.1.3-build.101.g520041c` - Windows - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.3-build.101.g520041c)
