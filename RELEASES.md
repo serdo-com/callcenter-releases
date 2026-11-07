@@ -2,6 +2,15 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.6 build 105 - 2026-11-07 08:58 UTC
+
+`0.1.6-build.105.g6e76041` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.105.g6e76041)
+
+- feat: refresh history and dashboards when a call ends without blinking, no comment/skip in listen box, fix blank window after cookie expiry; v0.1.6
+- feat: implement silent refresh for call data queries to improve UI responsiveness
+- feat: enhance redirect logic for Cloudflare and local desktop app handling
+- fix: allow OpenNext build on Next 15; HTTPS addresses for Cloudflare"
+
 ## 0.1.5 build 103 - 2026-10-31 06:27 UTC
 
 `0.1.5-build.103.ga2c8c91` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.5-build.103.ga2c8c91)
