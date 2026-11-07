@@ -2,6 +2,13 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.6 build 107 - 2026-11-07 10:04 UTC
+
+`0.1.6-build.107.g4a07277` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.107.g4a07277)
+
+- bump: Build number
+- feat: admin Line Log page for line and network outages
+
 ## 0.1.6 build 105 - 2026-11-07 08:58 UTC
 
 `0.1.6-build.105.g6e76041` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.105.g6e76041)
