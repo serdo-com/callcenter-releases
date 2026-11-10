@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.6 build 112 - 2026-11-10 05:59 UTC
+
+`0.1.6-build.112.g443f146` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.112.g443f146)
+
+- feat: refactor Apollo queries to use custom useQuery hook for improved data handling
+
 ## 0.1.6 build 110 - 2026-11-10 04:37 UTC
 
 `0.1.6-build.110.g78cbfc0` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.110.g78cbfc0)
