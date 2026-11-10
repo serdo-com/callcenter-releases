@@ -2,6 +2,13 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.6 build 110 - 2026-11-10 04:37 UTC
+
+`0.1.6-build.110.g78cbfc0` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.110.g78cbfc0)
+
+- feat: Export Logs on admin Call History downloads CSV or Excel
+- feat: publish and update commands
+
 ## 0.1.6 build 107 - 2026-11-07 10:04 UTC
 
 `0.1.6-build.107.g4a07277` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.107.g4a07277)
