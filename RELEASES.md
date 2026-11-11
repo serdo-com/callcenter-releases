@@ -2,6 +2,14 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 113 - 2026-11-11 16:03 UTC
+
+`0.1.7-build.113.ge4339fd` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.113.ge4339fd)
+
+- bump: Build number
+- feat: add call rating functionality with CallRating component and integrate into call history and wrap-up forms; v0.1.7
+- feat: implement live call indicators with LiveCallBadge component and update call history pages
+
 ## 0.1.6 build 112 - 2026-11-10 05:59 UTC
 
 `0.1.6-build.112.g443f146` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.6-build.112.g443f146)
