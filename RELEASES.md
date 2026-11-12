@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 114 - 2026-11-12 12:35 UTC
+
+`0.1.7-build.114.gd1e380a` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.114.gd1e380a)
+
+- feat: implement cache management and self-healing for stale pages in Electron app
+
 ## 0.1.7 build 113 - 2026-11-11 16:03 UTC
 
 `0.1.7-build.113.ge4339fd` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.113.ge4339fd)
