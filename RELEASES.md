@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 116 - 2026-11-13 05:13 UTC
+
+`0.1.7-build.116.gbb8ea0f` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.116.gbb8ea0f)
+
+- feat: implement loading placeholders with NumberShimmer component for improved user experience
+
 ## 0.1.7 build 115 - 2026-11-13 04:51 UTC
 
 `0.1.7-build.115.gdf7ce2c` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.115.gdf7ce2c)
