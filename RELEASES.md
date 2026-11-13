@@ -2,6 +2,13 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 119 - 2026-11-13 15:37 UTC
+
+`0.1.7-build.119.g6d5b61b` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.119.g6d5b61b)
+
+- feat: add AssistantChat and CallTranscriptPanel components for AI interaction and call transcript management
+- feat: add shimmer loading states for improved user experience in various components
+
 ## 0.1.7 build 117 - 2026-11-13 05:49 UTC
 
 `0.1.7-build.117.gbb8ea0f` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.117.gbb8ea0f)
