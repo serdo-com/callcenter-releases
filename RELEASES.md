@@ -2,6 +2,13 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 115 - 2026-11-13 04:51 UTC
+
+`0.1.7-build.115.gdf7ce2c` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.115.gdf7ce2c)
+
+- feat: enhance Windows installer to handle failed uninstalls gracefully and add server shutdown logic before updates
+- bump: Build Number
+
 ## 0.1.7 build 114 - 2026-11-12 12:35 UTC
 
 `0.1.7-build.114.gd1e380a` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.114.gd1e380a)
