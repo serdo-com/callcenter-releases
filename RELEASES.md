@@ -2,6 +2,13 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 122 - 2026-11-15 08:53 UTC
+
+`0.1.7-build.122.g9709bdf` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.122.g9709bdf)
+
+- feat: enhance ObserverSocket to handle unsupported server responses and improve URL construction
+- feat: push line and network health over the WebSocket and add a listen-only dashboard socket so admins see live status without going Available
+
 ## 0.1.7 build 121 - 2026-11-15 08:11 UTC
 
 `0.1.7-build.121.ge7f800f` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.121.ge7f800f)
