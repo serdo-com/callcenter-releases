@@ -2,6 +2,13 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 121 - 2026-11-15 08:11 UTC
+
+`0.1.7-build.121.ge7f800f` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.121.ge7f800f)
+
+- feat: show line and network health pills in the admin top bar and label the assistant's customer and outage tools
+- feat: implement AI usage tracking with new components and queries for admin dashboard
+
 ## 0.1.7 build 120 - 2026-11-14 09:18 UTC
 
 `0.1.7-build.120.g6d5b61b` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.120.g6d5b61b)
