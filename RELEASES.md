@@ -2,6 +2,12 @@
 
 Every publish of the Guzo Call Center desktop app, newest first.
 
+## 0.1.7 build 123 - 2026-11-16 11:58 UTC
+
+`0.1.7-build.123.g6fda264` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.123.g6fda264)
+
+- feat: add a self-hosted Amharic speech service (Addis Scribe) and an AI settings API to choose the transcription engine, Gemini models, and Addis AI for summaries and Ask AI
+
 ## 0.1.7 build 122 - 2026-11-15 08:53 UTC
 
 `0.1.7-build.122.g9709bdf` - Windows, Linux - [files](https://github.com/serdo-com/callcenter-releases/releases/tag/v0.1.7-build.122.g9709bdf)
